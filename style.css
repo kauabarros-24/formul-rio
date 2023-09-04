@@ -1,0 +1,24 @@
+@font-face {
+    font-family: poppins;
+    src: url(Poppins/Poppins-Bold.ttf);
+}
+body{
+    background-color: rgb(126, 128, 128);
+}
+#tela-de-login {
+    background: rgb(243, 243, 243);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.801);
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 5px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 400px;
+    height: 700px;
+    margin-left: 475px;
+    font-family: poppins;
+    text-align: center;
+    opacity: 90%;
+    
+}
+
+
